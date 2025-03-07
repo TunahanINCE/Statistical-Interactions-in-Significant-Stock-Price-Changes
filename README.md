@@ -1,22 +1,21 @@
 # 📊 Statistical Interactions in Significant Stock Price Changes Among Leading Electric Vehicle Manufacturers
 
-## 📌 Proje Açıklaması  
-Bu proje, Tesla, BYD, NIO ve Rivian gibi önde gelen elektrikli araç üreticilerinin hisse senedi fiyatlarındaki önemli değişimlerin birbiriyle olan etkileşimini incelemektedir. Çalışmada **Zaman Serisi Analizi**, **Makine Öğrenimi Modelleri (Random Forest, SARIMA)** ve **Granger Nedensellik Testi** gibi yöntemler kullanılmıştır.
+## 📌 Project Description  
+This project examines the interaction of significant changes in the stock prices of leading electric vehicle manufacturers such as Tesla, BYD, NIO and Rivian. Methods such as Time Series Analysis, Machine Learning Models (Random Forest, SARIMA) and Granger Causality Test were used in the study.
 
 ## 🗂 Klasör Yapısı  
 
-## 📊 Kullanılan Teknolojiler  
+## 📊 Technologies  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Makine Öğrenimi** (Random Forest, SARIMA)  
-- **Zaman Serisi Analizi** (ADF Testi, Granger Nedensellik Testi, VAR Modeli)  
-- **Finansal Veri Analizi** (Yahoo Finance API)  
+- **Machine Learning** (Random Forest, SARIMA)  
+- **Time Series Analysis** (ADF Test, Granger Causality Test, VAR Model)  
+- **Financial Data Analysis** (Yahoo Finance API)  
 
-## 📉 Veri Seti  
-- **Kaynak**: Yahoo Finance API  
-- **Zaman Aralığı**: Son 730 gün  
-- **Özellikler**:  
-  - Açılış, kapanış, en yüksek ve en düşük fiyatlar  
-  - İşlem hacmi  
-  - Günlük yüzde değişimler  
-
+## 📉 Data Set  
+- **Source**: Yahoo Finance API  
+- **Time Interval**: Last 730 days  
+- **Features**:  
+  - Opening, closing, highest and lowest prices  
+  - Trading volume  
+  - Daily percentage changes  
 
