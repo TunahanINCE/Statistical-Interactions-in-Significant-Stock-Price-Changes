@@ -3,8 +3,6 @@
 ## 📌 Project Description  
 This project examines the interaction of significant changes in the stock prices of leading electric vehicle manufacturers such as Tesla, BYD, NIO and Rivian. Methods such as Time Series Analysis, Machine Learning Models (Random Forest, SARIMA) and Granger Causality Test were used in the study.
 
-## 🗂 Klasör Yapısı  
-
 ## 📊 Technologies  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Machine Learning** (Random Forest, SARIMA)  
