@@ -34,6 +34,8 @@ As a result, although Tesla's price movements have a certain impact on other EV 
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/29de724c-4ab0-4c2c-9ed5-887e8fc4c678)
 
 The data indicates that TSLA exerts a substantial causal influence on the percentage change in BYDDY, with a p-value of 0.040712. This indicates that Tesla's historical price fluctuations may be utilized to forecast the price trends of BYD.
