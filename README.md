@@ -57,6 +57,6 @@ This project examines the interaction of significant changes in the stock prices
 ## 📬 Contact
 
 For any questions or collaborations, feel free to reach out!\
-📧 Email: [tunahanince@example.com](mailto\:incetunahan@hotmail.com)\
+📧 Email: [incetunahan@hotmail.com](mailto\:incetunahan@hotmail.com)\
 🔗 LinkedIn: [Tunahanince](https://www.linkedin.com/in/tunahanince/)
 
