@@ -1,19 +1,34 @@
-# 📊 Statistical Interactions in Significant Stock Price Changes Among Leading Electric Vehicle Manufacturers
+# 📊 Statistical Interactions in Significant Stock Price Changes Among Leading Electric Vehicle Manufacturers  
 
 ## 📌 Project Description  
-This project examines the interaction of significant changes in the stock prices of leading electric vehicle manufacturers such as Tesla, BYD, NIO and Rivian. Methods such as Time Series Analysis, Machine Learning Models (Random Forest, SARIMA) and Granger Causality Test were used in the study.
+This project analyzes the interaction of significant stock price changes among leading electric vehicle manufacturers such as **Tesla, BYD, NIO, and Rivian**.  
+The study incorporates **Time Series Analysis, Machine Learning models, and Financial Data Analysis** to explore relationships between these companies' stock movements.  
 
-## 📊 Technologies  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Machine Learning** (Random Forest, SARIMA)  
-- **Time Series Analysis** (ADF Test, Granger Causality Test, VAR Model)  
-- **Financial Data Analysis** (Yahoo Finance API)  
+## 🛠 Technologies  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning**: Random Forest, SARIMA  
+- **Time Series Analysis**: ADF Test, Granger Causality Test, VAR Model  
+- **Financial Data Analysis**: Yahoo Finance API  
 
-## 📉 Data Set  
+## 📊 Data Set  
 - **Source**: Yahoo Finance API  
-- **Time Interval**: Last 730 days  
+- **Time Interval**: Last **730 days**  
 - **Features**:  
-  - Opening, closing, highest and lowest prices  
+  - Opening, closing, highest, and lowest prices  
   - Trading volume  
   - Daily percentage changes  
 
+## 📈 Methodology  
+1. **Data Collection**: Fetch stock data using Yahoo Finance API  
+2. **Exploratory Data Analysis (EDA)**: Visualizing stock price trends and correlations  
+3. **Statistical Tests**: Applying **ADF Test** for stationarity and **Granger Causality Test** for interactions  
+4. **Time Series Forecasting**: Implementing **VAR Model** and **SARIMA** for predictive analysis  
+5. **Machine Learning**: Using **Random Forest** to analyze feature importance in stock movements  
+
+## 📷 Screenshots  
+(Add relevant screenshots or visualizations here)  
+
+## 🚀 How to Run  
+1. **Install required libraries:**  
+   ```bash
+   pip install -r requirements.txt
