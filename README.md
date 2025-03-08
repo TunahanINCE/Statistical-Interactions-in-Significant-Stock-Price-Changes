@@ -26,7 +26,9 @@ The study incorporates **Time Series Analysis, Machine Learning models, and Fina
 5. **Machine Learning**: Using **Random Forest** to analyze feature importance in stock movements  
 
 ## 📷 Screenshots  
-(Add relevant screenshots or visualizations here)  
+![image](https://github.com/user-attachments/assets/c1073441-175d-4d24-a53a-1998ef18dd67)
+
+  
 
 ## 🚀 How to Run  
 1. **Install required libraries:**  
